@@ -6,4 +6,5 @@
 ### [3.字符串查找算法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/string.c)  
 ### [4.二叉树的建立与遍历](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/tree.c)  
 ### [5.二叉树的基本操作（建立，遍历输出，查，增，删）](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/Binary%20tree.c)  
-### [5.Leetcode 两数之和](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/twosum.c)
+### [5.Leetcode 两数之和](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/twosum.c)  
+### [6.利用数组实现哈希表]()  
