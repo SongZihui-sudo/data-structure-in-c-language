@@ -9,8 +9,9 @@
 #define uchar unsigned char
 //子函数
 int find();//查找
-int *add();//插入
-int* del();//删除
+struct hash *add();//插入
+struct hash *del();//删除
+int able();//功能选择
 //结构体
 typedef struct hash{
     int Key[MAXSIZE];
@@ -18,7 +19,7 @@ typedef struct hash{
     int size;
 }hash;
 //主函数
-int* main(){
+struct hash *main(){
     int i,j;//变量
     hash *h;//结构体指针
     h=(hash*)malloc(sizeof(hash));//为结构体分配内存空间
@@ -84,7 +85,7 @@ int find(hash *sh){
     return OK;
 }
 //插入
-int* add(hash *Add){
+struct hash *add(hash *Add){
     int j,k;
     printf("add!\n");
     printf("input postion:");//提示
@@ -99,7 +100,7 @@ int* add(hash *Add){
     return Add;//返回结构体指针
 }
 //删除
-int* del(hash *del){
+struct hash *del(hash *del){
     int j,i,p;
     uchar k;
     printf("delete\n");
