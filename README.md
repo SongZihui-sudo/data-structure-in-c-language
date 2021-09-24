@@ -8,5 +8,5 @@
 ### [5.二叉树的基本操作（建立，遍历输出，查，增，删）](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/Binary%20tree.c)  
 ### [5.Leetcode 两数之和](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/twosum.c)  
 ### [6.利用数组实现哈希表](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/hash.c)   
-### [7.冒泡排序法]()  
+### [7.冒泡排序法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/buddding_method.c)  
 ### [8.二分法查找](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/dichotomy.c)
