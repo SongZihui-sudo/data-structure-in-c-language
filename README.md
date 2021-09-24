@@ -9,3 +9,4 @@
 ### [5.Leetcode 两数之和](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/twosum.c)  
 ### [6.利用数组实现哈希表](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/hash.c)   
 ### [7.冒泡排序法]()  
+### [8.二分法查找]()
