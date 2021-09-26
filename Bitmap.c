@@ -53,22 +53,27 @@ struct bitmap *input(bitmap *b){
 }
 //创建出bitmap
 struct bitmap *creat_bitmap(bitmap *creat_bit){
-    int h,w,j;
+    int h,w,j; 
+    int k;
     uint bit;
     bit=0200;
     for (int i = 0; i < 8; i++){
         creat_bit->bitmap[i] = 0;
-    }
-    
+    } //先赋初值 00000000
+    //建表
     for (j = 0; j < MAXSIZE; j++){
-        w = creat_bit->key[j];        
+        w = creat_bit->key[j];  
+        k=0;      
         while (w >= 0){
-            w=w-8;
+            w=w-8; //确定水平方向位置
+            k++;
         }                      //根据数值得到相应的bit
         w=w+8;
-        h=-(-8+w-j)/8;
+        //h=-(-8+w-j)/8; //确定确定数值方向位置
+        h=k-1;
         creat_bit->bitmap[h]= creat_bit->bitmap[h] | bit>>w;
     }        
     return creat_bit; //返回指针
 }
+
 
