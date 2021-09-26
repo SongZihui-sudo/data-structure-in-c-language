@@ -10,6 +10,7 @@
 //两个字函数
 struct bitmap *input(); //输入数值
 struct bitmap *creat_bitmap(); //创建bitmap
+int find();//查找
 //结构体
 typedef struct bitmap{
     int key[MAXSIZE]; //原始数据
@@ -32,6 +33,7 @@ int main(){
     bit=(bitmap*)malloc(sizeof(bitmap)); //分配相应内存空间
     input(bit); //输入数据
     creat_bitmap(bit);//建表
+    find(bit);
     return 0;
 }
 //输入原始数据
@@ -72,8 +74,40 @@ struct bitmap *creat_bitmap(bitmap *creat_bit){
         //h=-(-8+w-j)/8; //确定确定数值方向位置
         h=k-1;
         creat_bit->bitmap[h]= creat_bit->bitmap[h] | bit>>w;
-    }        
+    }    
+    //输出bitmap    
+    for ( int i = 0; i < 8; i++)    {
+        printf("bitmap=%d\n",creat_bit->bitmap[i]);
+    }
+    
     return creat_bit; //返回指针
+}
+//查找
+int find(bitmap *find_bit){
+    int j,w,h;
+    printf("find!\ninput data:");
+    scanf("%d",&j); //读入要查找的数据
+    if (j >= MAXSIZE){
+        printf("ERROR!\n"); //错误处理，超出容量
+        return ERROR;
+    }
+    w=j;
+    h=0;
+    while (w>=0){
+        w=w-8;
+        h++; //计算出要查找的数据在bitmap中的位置
+    }
+    w=w+8;
+    h=h-1;
+    if (find_bit->bitmap[h]<<w & 128){ //判断该位置在移位后是一还是零
+        printf("find!\n");    //是一则输出位置
+        printf("postion is:%d\n",j);
+        return j;
+    }
+    else{
+        printf("not found\n"); //否则没有找到，不存在
+        return ERROR;
+    }
 }
 
 
