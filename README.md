@@ -15,7 +15,7 @@
 #### [2.二分法查找](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/dichotomy.c)  
 #### [3.字符串查找算法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/string.c)  
 #### [4.线性搜索法（暴力法）](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/linear_search.c)    
-#### [5.两边搜索法]()
+#### [5.两边搜索法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/linear_search2.c)
 ### 排序：
 #### [1.冒泡排序法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/buddding_method.c)  
 ### LeetCode：
