@@ -18,7 +18,7 @@
 #### [5.两边搜索法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/linear_search2.c)&nbsp;&nbsp;&nbsp;&nbsp;[5-.C++版本](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/linear_searchcpp.cpp)  
 #### [6.C++跳跃搜索法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/jmup_search.cpp)   
 #### [7.C++插值插值法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/Interpolation_Search.cpp)  
-#### [8.指数搜索]()  
+#### [8.指数搜索](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/tree/main)  
 ### 排序：
 #### [1.冒泡排序法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/buddding_method.c)  
 ### LeetCode：
