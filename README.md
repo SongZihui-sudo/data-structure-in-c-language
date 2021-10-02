@@ -11,14 +11,13 @@
 
 ## 算法：  
 ### 搜索：
-#### [1.冒泡排序法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/buddding_method.c)  
-#### [2.二分法查找](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/dichotomy.c)  
-#### [3.字符串查找算法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/string.c)  
-#### [4.线性搜索法（暴力法）](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/linear_search.c)    
-#### [5.两边搜索法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/linear_search2.c)&nbsp;&nbsp;&nbsp;&nbsp;[5-.C++版本](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/linear_searchcpp.cpp)  
-#### [6.C++跳跃搜索法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/jmup_search.cpp)   
-#### [7.C++插值搜索法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/Interpolation_Search.cpp)  
-#### [8.指数搜索](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/tree/main)  
+#### [1.二分法查找](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/dichotomy.c)  
+#### [2.字符串查找算法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/string.c)  
+#### [3.线性搜索法（暴力法）](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/linear_search.c)    
+#### [4.两边搜索法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/linear_search2.c)&nbsp;&nbsp;&nbsp;&nbsp;[5-.C++版本](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/linear_searchcpp.cpp)  
+#### [5.C++跳跃搜索法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/jmup_search.cpp)   
+#### [6.C++插值搜索法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/Interpolation_Search.cpp)  
+#### [7.指数搜索](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/tree/main)  
 ### 排序：
 #### [1.冒泡排序法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/buddding_method.c)  
 ### LeetCode：
