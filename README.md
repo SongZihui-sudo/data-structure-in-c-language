@@ -20,5 +20,6 @@
 #### [7.指数搜索](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/Exponential_Search.cpp)  
 ### 排序：
 #### [1.冒泡排序法](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/buddding_method.c)  
+#### [2.选择排序C++]()  
 ### LeetCode：
 #### [1.Leetcode 两数之和](https://githubfast.com/SongZihui-sudo/data-structure-in-c-language/blob/main/twosum.c)  
