@@ -1,0 +1,21 @@
+[
+{
+  "directory": "c:\\Users\\songz\\Desktop\\CMC2207465支撑材料\\A-star算法",
+  "arguments": ["B:\\win_gcc\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe", "-c", "-o", "..\\..\\A-star\\build\\.objs\\test\\windows\\x64\\debug\\src\\test\\test.cc.obj", "src\\test\\test.cc"],
+  "file": "src\\test\\test.cc"
+},
+{
+  "directory": "c:\\Users\\songz\\Desktop\\CMC2207465支撑材料\\A-star算法",
+  "arguments": ["B:\\win_gcc\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe", "-c", "-o", "..\\..\\A-star\\build\\.objs\\test\\windows\\x64\\debug\\src\\A-star.cc.obj", "src\\A-star.cc"],
+  "file": "src\\A-star.cc"
+},
+{
+  "directory": "c:\\Users\\songz\\Desktop\\CMC2207465支撑材料\\A-star算法",
+  "arguments": ["B:\\win_gcc\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe", "-c", "-o", "..\\..\\A-star\\build\\.objs\\Astar\\windows\\x64\\debug\\src\\A-star.cc.obj", "src\\A-star.cc"],
+  "file": "src\\A-star.cc"
+},
+{
+  "directory": "c:\\Users\\songz\\Desktop\\CMC2207465支撑材料\\A-star算法",
+  "arguments": ["B:\\win_gcc\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe", "-c", "-o", "..\\..\\A-star\\build\\.objs\\Astar\\windows\\x64\\debug\\src\\main.cc.obj", "src\\main.cc"],
+  "file": "src\\main.cc"
+}]

@@ -1,0 +1,13 @@
+{
+    recheck = false,
+    options = {
+        plat = "windows",
+        mode = "debug",
+        buildir = [[c:\Users\songz\Desktop\A-star/build]],
+        toolchain = "mingw",
+        arch = "x64"
+    },
+    mtimes = {
+        ["xmake.lua"] = 1650184041
+    }
+}

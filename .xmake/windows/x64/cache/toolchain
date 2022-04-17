@@ -1,0 +1,50 @@
+{
+    mingw_arch_x64_plat_windows = {
+        cross = "x86_64-w64-mingw32-",
+        __global = true,
+        mingw = [[B:\win_gcc\mingw64]],
+        arch = "x64",
+        bindir = [[B:\win_gcc\mingw64\bin]],
+        plat = "windows"
+    },
+    tool_target_test_windows_x64_cxx = {
+        program = [[B:\win_gcc\mingw64\bin\x86_64-w64-mingw32-g++]],
+        toolname = "gxx",
+        toolchain_info = {
+            arch = "x64",
+            name = "mingw",
+            cachekey = "mingw_arch_x64_plat_windows",
+            plat = "windows"
+        }
+    },
+    tool_target_test_windows_x64_ld = {
+        program = [[B:\win_gcc\mingw64\bin\x86_64-w64-mingw32-g++]],
+        toolname = "gxx",
+        toolchain_info = {
+            arch = "x64",
+            name = "mingw",
+            cachekey = "mingw_arch_x64_plat_windows",
+            plat = "windows"
+        }
+    },
+    tool_target_Astar_windows_x64_cxx = {
+        program = [[B:\win_gcc\mingw64\bin\x86_64-w64-mingw32-g++]],
+        toolname = "gxx",
+        toolchain_info = {
+            arch = "x64",
+            name = "mingw",
+            cachekey = "mingw_arch_x64_plat_windows",
+            plat = "windows"
+        }
+    },
+    tool_target_Astar_windows_x64_ld = {
+        program = [[B:\win_gcc\mingw64\bin\x86_64-w64-mingw32-g++]],
+        toolname = "gxx",
+        toolchain_info = {
+            arch = "x64",
+            name = "mingw",
+            cachekey = "mingw_arch_x64_plat_windows",
+            plat = "windows"
+        }
+    }
+}
