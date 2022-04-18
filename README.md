@@ -18,7 +18,7 @@
 #### [5.C++跳跃搜索法](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/jmup_search.cpp)   
 #### [6.C++插值搜索法](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/Interpolation_Search.cpp)  
 #### [7.指数搜索](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/Exponential_Search.cpp)     
-#### [8.A star算法]()    
+#### [8.A star算法](https://github.com/SongZihui-sudo/data-structure-in-c-language/tree/main/A-star)    
 ### 排序：
 #### [1.冒泡排序法](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/buddding_method.c)  
 #### [2.选择排序C++](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/select_sort.cpp)  
