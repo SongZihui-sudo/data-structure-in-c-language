@@ -10,14 +10,15 @@
 #### [6.Bitmap](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/Bitmap.c)  
 
 ## 算法：  
-### 搜索：
-#### [1.二分法查找](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/dichotomy.c)  
+### 搜索：   
+#### [1.二分法查找](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/dichotomy.c)    
 #### [2.字符串查找算法](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/string.c)  
 #### [3.线性搜索法（暴力法）](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/linear_search.c)    
 #### [4.两边搜索法](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/linear_search2.c)&nbsp;&nbsp;&nbsp;&nbsp;[5-.C++版本](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/linear_searchcpp.cpp)  
 #### [5.C++跳跃搜索法](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/jmup_search.cpp)   
 #### [6.C++插值搜索法](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/Interpolation_Search.cpp)  
-#### [7.指数搜索](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/Exponential_Search.cpp)  
+#### [7.指数搜索](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/Exponential_Search.cpp)     
+#### [8.A star算法]()    
 ### 排序：
 #### [1.冒泡排序法](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/buddding_method.c)  
 #### [2.选择排序C++](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/select_sort.cpp)  
