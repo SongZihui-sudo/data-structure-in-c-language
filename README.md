@@ -7,7 +7,8 @@
 #### [3.二叉树的建立与遍历](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/tree.c)  
 #### [4.二叉树的基本操作（建立，遍历输出，查，增，删）](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/Binary%20tree.c)  
 #### [5.利用数组实现哈希表](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/hash.c)   
-#### [6.Bitmap](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/Bitmap.c)  
+#### [6.Bitmap](https://github.com/SongZihui-sudo/data-structure-in-c-language/blob/main/Bitmap.c)   
+#### [7.C++简单实现的梅克尔树](https://github.com/SongZihui-sudo/data-structure-in-c-language/tree/main/%E6%A2%85%E5%85%8B%E5%B0%94%E6%A0%91)  
 
 ## 算法：  
 ### 搜索：   
