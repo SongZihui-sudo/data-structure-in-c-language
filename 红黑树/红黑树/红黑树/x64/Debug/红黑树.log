@@ -1,0 +1,14 @@
+﻿  正在扫描源以查找模块依赖项...
+  rbtree.ixx
+  正在编译...
+  rbtree.ixx
+C:\Users\songz\Desktop\红黑树\红黑树\红黑树\rbtree.ixx(2,16): warning C5050: 导入模块“std.core”时可能不兼容的环境: _MSC_EXTENSIONS is defined in module command line and not in current command line
+C:\Users\songz\Desktop\红黑树\红黑树\红黑树\rbtree.ixx(2,16): warning C5050: 导入模块“std.core”时可能不兼容的环境: _GUARDOVERFLOW_CRT_ALLOCATORS=1 is defined in current command line and not in module command line
+C:\Users\songz\Desktop\红黑树\红黑树\红黑树\rbtree.ixx(2,16): warning C5050: 导入模块“std.core”时可能不兼容的环境: _DEBUG is defined in current command line and not in module command line
+C:\Users\songz\Desktop\红黑树\红黑树\红黑树\rbtree.ixx(2,16): warning C5050: 导入模块“std.core”时可能不兼容的环境: _M_FP_PRECISE is defined in current command line and not in module command line
+  main.cpp
+C:\Users\songz\Desktop\红黑树\红黑树\红黑树\main.cpp(1,16): warning C5050: 导入模块“std.core”时可能不兼容的环境: _MSC_EXTENSIONS is defined in module command line and not in current command line
+C:\Users\songz\Desktop\红黑树\红黑树\红黑树\main.cpp(1,16): warning C5050: 导入模块“std.core”时可能不兼容的环境: _GUARDOVERFLOW_CRT_ALLOCATORS=1 is defined in current command line and not in module command line
+C:\Users\songz\Desktop\红黑树\红黑树\红黑树\main.cpp(1,16): warning C5050: 导入模块“std.core”时可能不兼容的环境: _DEBUG is defined in current command line and not in module command line
+C:\Users\songz\Desktop\红黑树\红黑树\红黑树\main.cpp(1,16): warning C5050: 导入模块“std.core”时可能不兼容的环境: _M_FP_PRECISE is defined in current command line and not in module command line
+  红黑树.vcxproj -> C:\Users\songz\Desktop\红黑树\红黑树\x64\Debug\红黑树.exe

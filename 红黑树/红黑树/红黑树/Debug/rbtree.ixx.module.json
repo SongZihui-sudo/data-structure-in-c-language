@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\songz\\desktop\\红黑树\\红黑树\\红黑树\\rbtree.ixx",
+        "ProvidedModule": "rbtree",
+        "ImportedModules": [
+            "std.core"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\songz\\desktop\\红黑树\\红黑树\\红黑树\\rbtree.ixx",
+        "ProvidedModule": "rbtree",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "std.core",
+                "BMI": "B:\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\ifc\\x86\\debug\\std.core.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}
